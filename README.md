@@ -10,13 +10,15 @@ python beautify.py 'README.md'
 ## Example
 While the 2 tables are displayed the same on GitHub, the normal text format are different.
 
-| Fruit | Color | Description |\
+\
+| Fruit | Color | Description |
 | --- | --- | --- |
 | Apple | Red | Crunchy |
 | Orange | Orange | Sour |
 | Grape | Purple | Small |
 
-| Fruit  | Color  | Description |\
+\
+| Fruit  | Color  | Description |
 | ------ | ------ | ----------- |
 | Apple  | Red    | Crunchy     |
 | Orange | Orange | Sour        |
