@@ -9,6 +9,7 @@ python beautify.py 'README.md'
 
 ## Example
 While the 2 tables are displayed the same on GitHub, the normal text formats are different.
+Note that tables require 1 empty line above and below it (2 below it if is end of file).
 
 ```
 | Fruit | Color | Description |
